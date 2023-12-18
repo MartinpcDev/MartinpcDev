@@ -16,9 +16,6 @@ Actualmente estoy estudiando para encontrar mi primer trabajo como desarrollador
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MarkpherDev&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
