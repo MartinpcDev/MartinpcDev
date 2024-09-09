@@ -21,10 +21,10 @@
 <h1 align="left">Stats</h1>
 
 ###
-
+  [![Maartinpcdev stats](https://github-readme-stats.vercel.app/api?username=MartinpcDev&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/MartinpcDev/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinpcDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MartinpcDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
