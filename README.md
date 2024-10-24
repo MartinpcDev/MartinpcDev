@@ -2,13 +2,16 @@
   <img height="400" src="https://res.cloudinary.com/dmof364iw/image/upload/v1728157696/Make_your_README_az5f1t.png"  />
 </div>
 
-###
+### :man_technologist: About Me: 
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
+- :telescope: I’m working as a Computer Systems Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinchris-palomino/)
 
-<p align="left">Hi, I'm Martin, I'm a Full Stack programmer passionate about creating robust and scalable web applications. I have experience developing both client-side and server-side applications, using a variety of modern technologies. I am a quick learner and am constantly looking for new ways to improve my skills.</p>
+---
 
-###
-
-<h1 align="left">Techs</h1>
+### :hammer_and_wrench: Languages and Tools :
 
 ###
 <div align="center">
@@ -61,29 +64,32 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
-###
+---
 
-<h1 align="left">Stats</h1>
+### Stats
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartinpcDev&show_icons=true\&theme=dark#gh-dark-mode-only" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MartinpcDev&theme=dark" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinpcDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
 </div>
 
-###
+---
 
-<h1 align="left">Contacto</h1>
+### :briefcase: Contacto
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/martinchris-palomino/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<div id="header" align="center">
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarkpherDev.MarkpherDev&left_color=black"  />
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/martinchris-palomino/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ###
