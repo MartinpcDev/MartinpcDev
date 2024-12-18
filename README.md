@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="400" src="https://res.cloudinary.com/dmof364iw/image/upload/v1728157696/Make_your_README_az5f1t.png"  />
-</div>
-
 ### :man_technologist: About Me: 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 - :telescope: I’m working as a Computer Systems Engineer and contributing to frontend and backend for building web applications.
